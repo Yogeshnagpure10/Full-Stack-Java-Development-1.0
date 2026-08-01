@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//class create
 public class BuzzNumber {
 
     public static void main(String[] args) {
