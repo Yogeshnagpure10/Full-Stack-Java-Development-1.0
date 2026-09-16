@@ -26,10 +26,15 @@ public class ArraysMethod {
         //     System.out.println("Array  "+ i + " index value "+ arr[i]);
         // }
 
-        for (int a: arr )
+        for(int i=arr.length-1 ; i>=0; i--)
         {
-            System.out.println("Array value : "+ a);
+            System.out.println("Array of index :"+ arr [i]);
         }
+
+        // for (int a: arr )
+        // {
+        //     System.out.println("Array value : "+ a);
+        // }
 
     }
     
